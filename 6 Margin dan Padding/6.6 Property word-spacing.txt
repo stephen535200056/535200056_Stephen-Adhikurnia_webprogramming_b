@@ -1,1 +1,0 @@
-Pada properti ini Kita dapat mengatur jarak antar kata pada sebuah dokumen HTML. Penggunaannya sama seperti letter-spacing properti. Berikut adalah contoh penggunaan properti word-spacing. 

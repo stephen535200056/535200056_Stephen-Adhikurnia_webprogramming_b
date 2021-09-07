@@ -1,0 +1,1 @@
+Properti ini memungkinkan Kita untuk mengatur indentasi baris teks pertama dalam suatu elemen, sehingga baris pertama pada paragraf tersebut menjorok kedalam sesuai dengan nilai yang sudah Kita tentukan. 

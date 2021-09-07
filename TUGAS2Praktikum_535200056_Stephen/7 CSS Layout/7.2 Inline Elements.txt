@@ -1,0 +1,9 @@
+Inline Elements tidak dimulai pada baris baru dan hanya membutuhkan lebar yang diperlukan. 
+
+Contoh :  
+
+<span> 
+
+<a> 
+
+<img> 

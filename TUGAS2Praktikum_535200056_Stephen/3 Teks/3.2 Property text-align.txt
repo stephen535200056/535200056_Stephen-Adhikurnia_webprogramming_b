@@ -1,0 +1,9 @@
+Property text-align bekerja seperti atribut pada format HTML. Align atau perata yang bisa diatur diantaranya rata kiri (left), kanan (right), tengah (center) dan rata keseluruhan paragraf (justify). 
+
+contoh :
+
+<style>
+.leftAlign{
+    text-align: left;
+}
+</style>

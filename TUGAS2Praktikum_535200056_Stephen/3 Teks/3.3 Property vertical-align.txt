@@ -1,0 +1,9 @@
+Properti ini berguna saat bekerja dengan elemen sebaris (inline), pada gambar dan bagian teks tertentu. Ini memungkinkan Kita untuk mengontrol posisi vertikal mereka di dalam elemen yang berada didalamnya. 
+
+Properti ini juga dapat menurunkan (inherit) dari nilai dengan persentase. 
+
+Contoh :
+<style>
+img.a{vertical-align: none}
+img.b{vertical-align: baseline}
+</style>

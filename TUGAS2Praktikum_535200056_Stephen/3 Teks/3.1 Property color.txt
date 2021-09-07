@@ -1,0 +1,22 @@
+Property ini digunakan untuk mengatur warna pada teks yang dibuat. Nilai warna bisa menggunakan nama secara langsung (red,blue,yellow), nilai RGB (Red,Green, Blue), nilai hexadecimal, atau HSL (Hue Saturation Lightness). 
+
+Untuk penulisan menggunakan format RGB intensitas warna memiliki nilai diantara 0 dan 255 pada setiap parameter (red, green, blue) dan format penulisan adalah rgb(x,x,x) dimana x adalah nilai parameter. 
+
+Untuk penulisan menggunakan nilai hexadecimal bagian depan diberi awalan symbol “#” tanpa tanda kutip dengan format #rrggbb dinaman rr (red), gg (green), bb (blue) adalah nilai hexadecimal dimulai dari 00 sampai ff. 
+
+Untuk penulisan menggunakan format hsl memiliki nilai sebagai berikut :  
+
+Hue adalah derajat pada roda warna dari 0 hingga 360. 0 berwarna merah, 120 berwarna hijau, dan 240 berwarna biru. 
+
+Saturation adalah nilai persentase penuh tidaknya sebuah warna, 0% berarti warna abu-abu, dan 100% adalah warna penuh. 
+
+Lightness juga adalah persentase gelap terangnya sebuah warna. 0% adalah hitam, 50% tidak terang atau gelap, 100% putih. 
+
+Dengan format penulisan hsl(h,s,l) 
+
+Contoh : 
+<style>
+h1.satu{
+    color: red;
+}
+</style>

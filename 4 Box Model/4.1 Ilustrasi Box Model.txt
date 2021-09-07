@@ -1,0 +1,3 @@
+Untuk mengilustrasikan box model, Kita bisa menambahkan border pada setiap elemen dalam halaman web.  
+
+Script css : setiap elemen memiliki border box masing-masing dan pada element <h1> dan <b> diberi warna abu-abu untuk membantu membedakan dari elemen lain. 

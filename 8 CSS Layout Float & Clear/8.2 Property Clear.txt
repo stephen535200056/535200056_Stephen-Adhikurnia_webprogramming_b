@@ -1,0 +1,17 @@
+Properti menentukan elemen apa yang bisa mengapung di samping elemen yang clear kan dan di sisi mana. 
+
+Properti dapat memiliki salah satu nilai berikut:  
+
+none - Memungkinkan elemen mengambang di kedua sisi. Ini default 
+
+kiri - Elemen mengambang tidak diperbolehkan di sisi kiri 
+
+kanan- Tidak ada elemen mengambang yang diizinkan di sisi kanan 
+
+keduanya - Tidak ada elemen mengambang yang diizinkan di sisi kiri atau kanan 
+
+inherit - Elemen mewarisi nilai yang jelas dari induknya 
+
+Cara paling umum untuk menggunakan properti clear adalah setelah Anda menggunakan properti float pada sebuah elemen. 
+
+Saat membersihkan float, Anda harus mencocokkan yang jelas dengan floating-nya: Jika elemen di float kan ke kiri, maka Anda harus jelas ke kiri. Elemen float Anda akan terus mengambang, tetapi elemen yang telah clear-kan akan muncul di bawahnya pada halaman web. 

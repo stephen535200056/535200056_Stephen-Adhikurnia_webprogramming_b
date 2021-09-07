@@ -1,0 +1,25 @@
+Properti ini digunakan untuk memberikan variasi pada suatu teks atau penanda.
+
+
+underline 
+
+Menambahkan baris di bawah konten. 
+
+overline 
+
+Menambahkan baris di atas konten. 
+
+line-through 
+
+Menambahkan garis melalui bagian tengah konten, seperti teks yang dicoret. Secara umum, ini harus digunakan hanya untuk menunjukkan teks yang ditandai untuk dihapus. 
+
+none 
+
+Menghapus semua variasi teks pada suatu elemen. 
+
+contoh :
+<style>
+h1.underline{
+    text-decoration: underline;
+}
+</style>

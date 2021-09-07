@@ -1,0 +1,22 @@
+Properti ini mengontrol apakah white space (ruang putih pada editor) dipertahankan atau diabaikan. Ada beberapa nilai yang dapat digunakan pada properti white-space terkait penggunaan white space pada sebuah dokumen html. 
+
+normal 
+
+normal sesuai halaman web. 
+
+pre 
+
+mempertahankan white space seperti pada editor HTML. 
+
+pre-line 
+
+mempertahakan white space seperti pada editor HTML tetapi pada  value pre-line jarak setiap per-kata hanya akan menampilkan satu spasi seperti pada umumnya walaupun anda mengetikkan lebih dari satu spasi.dapat membuat baris baru jika diperlukan. 
+
+pre-wrap 
+
+mempertahakan white space seperti pada editor apabila baris teks akan mengalir keluar melebihi batas elemen ia akan membuat baris baru sehingga baris teks tetap berada di dalam area pembungkusnya. 
+
+nowarp 
+
+teks akan terus memanjang (tidak membuat baris baru untuk menyesuaikan tampilan di browser) jika tidak secara eksplisit menggunakan elemen <br>. 
+

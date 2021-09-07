@@ -1,0 +1,14 @@
+Properti ini seperti elemen <dir> pada HTML yaitu menentukan arah dinama teks harus mengalir. Berikut adalah properti dari direction :  
+
+ltr 
+
+teks mengalir dari kiri ke kanan. 
+
+rtl 
+
+teks mengalir dari kanan ke kiri. 
+
+inherit 
+
+teks mengalir sesuai dengan arah dari elemen induk. 
+

@@ -1,0 +1,52 @@
+Properti ini memungkinkan Kita untuk menentukan garis apa yang akan digunakan sebagai pembatas (border). Nilai default dari properti ini adalah “none” jadi tidak ada border yang akan ditampilkan secara otomatis. Berikut adalah nilai yang dapat digunakan pada border-style. 
+
+
+none 
+
+Tidak ada border (setara dengan border-width:0;) 
+
+solid 
+
+Border adalah garis solid tunggal. 
+
+dotted 
+
+Border adalah serangkaian titik. 
+
+dashed 
+
+Border adalah serangkaian garis pendek. 
+
+double 
+
+Border adalah dua garis solid, nilai properti border-width menciptakan jumlah dari dua garis dan ruang diantara mereka. 
+
+groove 
+
+Border tampak seolah-olah diukir kehalaman. 
+
+ridge 
+
+Border terlihat kebalikan dari groove. 
+
+inset 
+
+Border membuat kotak terlihat seperti tertanam di page. 
+
+outset 
+
+Border membuat kotak tampak seperti keluar kanvas. 
+
+hidden 
+
+Sama seperti none, kecuali dalam hal resolusi konflik untuk elemen tabel. 
+
+Kita dapat mengubah style batas bagian bawah, kiri, atas, dan kanan kotak secara individual menggunakan properti berikut: 
+
+border-bottom-style 
+
+border-right- style 
+
+border-top- style 
+
+border-left- style 

@@ -1,0 +1,11 @@
+Beberapa kegunaan CSS diantaranya :  
+
+Mempersingkat penulisan tag HTML  
+
+Penulisan tag dengan property dan nilai yang sama tidak perlu dituliskan pada setiap tag HTML. 
+
+Mempercepat proses rendering atau pembacaan HTML karena tidak terdapat pengulangan penulisan. 
+
+Mudah untuk memelihara (maintain) skrip : karena CSS dapat dibuat  terpisah maka tidak perlu merombak semua elemen atau property dalam HTML. 
+
+CSS dapat melakukan apa yang tidak bisa dilakukan oleh HTML seperti memberikan warna pada input box atau scrollbar. 

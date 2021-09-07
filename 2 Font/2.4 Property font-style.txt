@@ -1,0 +1,10 @@
+Property ini digunakan untuk mengatur bentuk style pada font. Apakah secara normal, italic, atau oblique. Namun style bold tidak dikategorikan ke property font-style karena style bold dikategorikan ke property weight, hal ini berbeda dengan HTML. 
+
+Dalam tipografi, versi italic dari sebuah font biasanya akan menjadi versi font khusus berdasarkan kaligrafi, sedangkan versi oblique dari font akan mengambil versi normal font yang sudutnya dimiringkan. 
+
+Berikut adalah contoh penggunaan property font-style :  
+
+<style>
+h1{
+    font-style: normal;
+}

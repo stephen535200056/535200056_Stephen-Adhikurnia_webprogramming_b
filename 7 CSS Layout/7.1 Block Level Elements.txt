@@ -1,0 +1,17 @@
+Block Level Elements selalu dimulai pada baris baru dan menempati lebar penuh yang tersedia (membentang ke kiri dan kanan sejauh mungkin). 
+
+Contoh :  
+
+<div> 
+
+<h1> - <h6> 
+
+<p> 
+
+<form> 
+
+<header> 
+
+<footer> 
+
+<section> 

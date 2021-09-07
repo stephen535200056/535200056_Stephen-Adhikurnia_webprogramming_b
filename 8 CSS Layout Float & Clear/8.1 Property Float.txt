@@ -1,0 +1,1 @@
+Properti CSS float menentukan bagaimana sebuah elemen harus mengapung (float pada layout tertentu) sehingga tampilan seolah - olah berada pada lapisan atasnya. 

@@ -1,0 +1,3 @@
+Property ini untuk mengubah bentuk huruf yang tadinya berukuran kecil menjadi semuanya berbentuk huruf capital atau normal.  
+
+Terdapat dua nilai pada property ini : normal dan small-caps. 

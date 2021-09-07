@@ -1,0 +1,7 @@
+Properti border memungkinkan Kita menentukan bagaimana batas kotak yang mewakili elemen akan terlihat. Ada 3 (tiga) properti border yang dapat diubah :  
+
+border-color digunakan untuk mengatur warna pada border. 
+
+border-style digunakan untuk mengatur hiasan pada border dapat berupa solid, dashed, double line atau salah satu dari nilai yang mungkin lainnya. 
+
+border-width digunakan untuk mengatur lebar sebuah border. 

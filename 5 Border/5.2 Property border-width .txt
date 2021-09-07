@@ -1,0 +1,19 @@
+Properti ini memungkinkan Kita untuk menentukan lebar dari sebuah border, biasanya ditentukan dalam satuan pixel (px). Nilai properti border-width tidak dapat menggunakan persentase, meskipun Kita dapat menggunakan absolut unit atau relative unit, atau salah satu dari nilai berikut : 
+
+thin 
+
+medium 
+
+tick 
+
+Nilai diatas tidak ditentukan dalam rekomendasi css, sehinggal lebar sebenarnya yang sesuai dengan nilai diatas ini bergantung pada browser. 
+
+Kita dapat mengubah lebar batas bagian bawah, kiri, atas, dan kanan kotak secara individual menggunakan properti berikut: 
+
+border-bottom-width 
+
+border-right-width 
+
+border-top-width 
+
+border-left-width 

@@ -1,0 +1,11 @@
+Mungkin yang paling penting, font tidak sama dengan jenis huruf (typeface): 
+
+jenis huruf (typeface) adalah keluarga font, seperti keluarga Arial. 
+
+Font adalah anggota spesifik keluarga itu, seperti huruf tebal 12 poin Arial. 
+
+Anda sering melihat istilah yang digunakan secara bergantian, tetapi perlu diperhatikan perbedaannya. 
+
+Typeface cenderung menjadi salah satu dari dua grup: font serif dan sans-serif. Font serif memiliki ikal tambahan pada huruf. Sebagai contoh, pada gambar dibawah ini, gambar pertama berisi serif di bagian atas huruf dan di bagian bawah huruf, sedangkan font sans-serif memiliki ujung lurus ke huruf, seperti pada contoh kedua. 
+
+Gaya umum ketiga dari jenis huruf adalah font serif monospace. Setiap huruf dalam font monospasi memiliki lebar yang sama, sedangkan font nonmonospasi memiliki lebar berbeda untuk huruf yang berbeda. (Misalnya, dalam font serif dan sans-serif, huruf l cenderung lebih sempit daripada huruf m.) 

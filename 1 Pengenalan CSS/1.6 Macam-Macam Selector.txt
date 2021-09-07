@@ -1,0 +1,63 @@
+Sebelum melanjutkan untuk melihat lebih banyak properti, Anda perlu melihat beberapa masalah yang lebih mendasar. Mulailah dengan melihat bagaimana Anda dapat menggunakan jenis selector yang berbeda untuk menentukan elemen mana yang menjadi aturan aturan style sheet. Sebenarnya ada beberapa cara untuk melakukan ini, tidak hanya dengan menggunakan nama elemen seperti yang telah Kita lihat sejauh ini dalam bab ini (yang, kebetulan, dikenal sebagai selector sederhana) atau menggunakan nilai atribut kelas atau atribut id. Pelajari caranya di beberapa bagian berikutnya. 
+
+Universal Selector 
+
+Selector universal adalah tanda bintang; itu seperti wildcard dan cocok dengan semua jenis elemen dalam dokumen. 
+
+* { } 
+
+Jika Anda ingin aturan diterapkan ke semua elemen, Anda dapat menggunakan selector ini. Kadang-kadang digunakan untuk nilai-nilai default yang berlaku untuk seluruh dokumen (seperti font-family dan ukuran font) kecuali selector lain yang lebih spesifik menunjukkan bahwa elemen harus menggunakan nilai yang berbeda untuk properti yang sama. 
+
+Ini sedikit berbeda dari menerapkan gaya default ke elemen <body> karena pemilih universal berlaku untuk setiap elemen dan tidak bergantung pada properti yang diwarisi dari aturan yang berlaku untuk elemen <body>. 
+
+Tag / Element HTML 
+
+Penggunaan tag yang terdapat pada HTML. Setiap tag yang ada dalam HTML dapat dijadikan sebagai selector. 
+
+Contoh :  
+
+h1 {color : red; } 
+
+Class Selector 
+
+Class selector memungkinkan Anda untuk mencocokkan aturan dengan yang membawa atrribute class yang nilainya cocok dengan yang Anda tentukan di class selector.  
+
+Sebagai contoh, pada tag “<p>” akan Kita tambahkan atribut class dengan nama isiteks seperti berikut :  
+
+<p class=”isiteks”>ini adalah isiteks class paragraph</p> 
+
+Penggunaan class selector akan diawali dengan tanda titik “.” Diawal penulisannya. Kita dapat menggunakan class selector dengan 2 (dua) cara.  
+
+1. Kita dapat memberikan aturan penulisan CSS pada semua element yang memiliki atribut class “isiteks”. 
+2. Kita dapat memberikan aturan penulisan CSS hanya pada spesifik elemen yang sudah diberikan class tertentu saja. 
+
+ID Selector 
+
+Hampir sama dengan class selector, ID selector bersifat unik dan dapat diterapkan untuk hampir semua tag HTML, tetapi penggunaanya hanya sekali dalam satu halaman untuk satu tag HTML tertentu. Penggunaan ID selector menggunakan awalan tanda pagar “#” untuk inisialisasi sebuah nama id yang sudah dibuat pada dokumen HTML. 
+
+Child Selector 
+
+Child selector digunakan untuk mencocokkan semua elemen yang merupakan anak dari elemen yang ditentukan. Ini memberi hubungan antara dua elemen. Selector elemen > elemen memilih elemen yang merupakan anak-anak dari orang tua tertentu. Operan di sisi kiri “>” adalah induk dan operan di sebelah kanan adalah elemen anak-anak. 
+
+Descendant selector 
+
+Selector Descendant digunakan untuk memilih semua elemen yang merupakan anak dari elemen (bukan elemen tertentu). Ini memilih elemen di dalam elemen yaitu menggabungkan dua penyeleksi sehingga elemen yang cocok dengan selector kedua dipilih jika mereka memiliki elemen leluhur yang cocok dengan selector pertama. 
+
+Adjacent Sibling Selector 
+
+Sebuah adjacent sibling selector digunanakan untuk memilih diantara 2 pasang selector dan dipilih yang kedua atau selanjutnya. 
+
+Jika, x, y dan z adalah tiga elemen HTML dan y dan z berada bersebelahan di dalam x, maka y dan z disebut sebagai adjacent sibling selector. 
+
+Saat menulis adjacent sibling selector, selector harus dipisahkan dengan kombinator "+". 
+
+Misalnya jika Anda ingin membuat paragraf pertama setelah setiap level 1 dengan gaya yang berbeda dari elemen <p> lainnya, Anda dapat menggunakan adjacent sibling selector seperti itu untuk menentukan aturan untuk hanya elemen <p> pertama yang muncul setelah setiap elemen <h1>. 
+
+General Sibling Selector 
+
+General sibling selector memilih semua elemen yang merupakan saudara kandung dari elemen yang ditentukan. 
+
+Contoh berikut memilih semua elemen <p> yang merupakan saudara dari elemen <div>: 
+
+Saat menulis general sibling selector selector harus dipisahkan dengan kombinator “~” 
+

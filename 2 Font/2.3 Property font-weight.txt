@@ -1,0 +1,5 @@
+Property ini digunakan untuk membuat variasi font yang berbeda seperti cetak tebal dan cetak miring. Pada sebuah browser cenderung menggunakan sebuah algoritma untuk membuat versi font terlihat lebih tebal atau lebih tipis. Inilah tujuan dari property font-weight. 
+
+Nilai yang mungkin untuk font-weight adalah :  
+
+normal bold bolder lighter 100 200 300 400 500 600 700 800 900 

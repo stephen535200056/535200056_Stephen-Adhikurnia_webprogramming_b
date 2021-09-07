@@ -1,0 +1,19 @@
+Properti padding memungkinkan Kita menentukan berapa banyak ruang yang harus muncul antara konten elemen dan border. 
+
+Nilai properti ini paling sering ditentukan dalam piksel. Meskipun, itu dapat menggunakan salah satu unit panjang yang Kita temui sebelumnya, persentase, atau kata yang diwarisi (inherit). 
+
+Padding suatu elemen tidak mewarisi secara default, jadi jika elemen <body> memiliki properti padding dengan nilai 50 piksel, ini tidak secara otomatis berlaku untuk semua elemen lain di dalamnya. Jika nilai inherit diterapkan ke elemen apa pun, hanya dengan demikian mereka dapat memiliki padding yang sama dengan elemen induknya. 
+
+Jika persentase digunakan, persentase kotak berisi, dan jika nilai 10 persen ditentukan, akan ada 5 persen dari masing-masing sisi kotak sebagai padding. 
+
+Kita dapat menentukan jumlah padding yang berbeda di dalam setiap sisi kotak menggunakan properti berikut: 
+
+padding-bottom 
+
+padding-top 
+
+padding-left 
+
+padding-right 
+
+Atribut padding sangat membantu untuk membuat ruang putih (white space) antara konten elemen dan setiap perbatasan yang dimilikinya. 

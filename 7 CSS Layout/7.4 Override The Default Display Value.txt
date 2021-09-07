@@ -1,0 +1,3 @@
+Seperti yang disebutkan, setiap elemen memiliki nilai tampilan default. Namun, Anda dapat menimpanya. 
+
+Mengubah elemen inline menjadi elemen blok, atau sebaliknya, dapat berguna untuk membuat laman terlihat dengan cara tertentu, dan tetap mengikuti standar web. 

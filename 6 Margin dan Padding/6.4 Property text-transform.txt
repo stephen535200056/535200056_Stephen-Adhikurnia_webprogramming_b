@@ -1,0 +1,18 @@
+Properti ini digunakan untuk mengubah teks pada suatu konten elemen. Baik menjadi capitalize, uppercase atau lowercase. Beberapa nilai yang dapat digunakan pada property ini adalah sebagai berikut : 
+
+none 
+
+tidak ada perubahan yang terjadi 
+
+capitalize 
+
+mengubah karakter huruf pertama menjadi kapital / hurus besar. 
+
+uppercase 
+
+membuat seluruh konten elemen huruf besar. 
+
+lowercase 
+
+membuat seluruh konten elemen huruf kecil. 
+

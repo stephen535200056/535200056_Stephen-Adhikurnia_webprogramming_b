@@ -1,0 +1,13 @@
+Setiap node di pohon DOM diidentifikasi oleh tipe node. JavaScript menggunakan bilangan bulat untuk menentukan jenis node. 
+
+nodeName 
+
+Properti nodeName berisi nama node. 
+nodeName dari sebuah elemen adalah nama tag. 
+nodeName dari sebuah atribut adalah nama atribut. 
+nama dari sebuah teks node selalu #text 
+nama dari node dokumen selalu #document 
+
+nodeValue 
+
+Dalam teks node, properti nodeValue berisi teks. Dalam atribut node, properti nodeValue berisi nilai atribut. properti nodeValue tidak tersedia dalam dokumen dan elemen node. 

@@ -1,0 +1,7 @@
+Event adalah sebuah tindakan yang terjadi di browser web, yang diberikan browser kepada Kita sehingga Kita dapat menanggapinya. 
+
+Misalnya, saat pengguna mengklik tombol di sebuah dokumen HTML, Kita mungkin ingin menanggapi event klik ini dengan menampilkan kotak dialog. 
+
+Setiap event mungkin memiliki penanganan event (event handling) yang merupakan blok kode yang akan dijalankan saat event terjadi. 
+
+Event handling dikenal juga sebagai event listener. Ini akan menanggapi sebuah event dan mengeksekusi ketika event terjadi. 

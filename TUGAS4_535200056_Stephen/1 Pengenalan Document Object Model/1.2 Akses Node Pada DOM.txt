@@ -1,0 +1,10 @@
+Dengan DOM, dokumen baik dokumen HTML dan XML dapat diakses disetiap node-nya
+
+Sebuah node tree menunjukan sebuah dokumen sebagai set koneksi di antara mereka. Ada beberapa hal yang perlu diperhatikan :  
+1. Dalam node tree, node paling atas disebut root. 
+2. Setiap node, kecuali root mempunyai satu parent node. 
+3. Sebuah node dapat mempunyai beberapa children (anak). 
+4. Sebuah leaf (daun) adalah node yang tidak mempunyai children (anak). 
+5. Sibling adalah node yang mempunyai parent yang sama. 
+6. Child yang pertama kali dapat di list dinamakan firstchild. 
+7. Child yang terakhir di list dinamakan lastchild. 

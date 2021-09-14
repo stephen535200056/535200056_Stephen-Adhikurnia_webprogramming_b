@@ -1,0 +1,11 @@
+Untuk mendapatkan node induk dari node yang ditentukan di struktur tree DOM, Kita dapat  menggunakan properti parentNode: 
+
+let parent = node.parentNode; 
+
+parentNode bersifat read-only. 
+
+ 
+
+Node Document dan DocumentFragment tidak memiliki parent, oleh karena itu parentNode akan selalu null. 
+
+Jika Kita membuat node baru tetapi belum memasangnya ke tree DOM, parentNode dari node tersebut juga akan menjadi null. 

@@ -1,0 +1,1 @@
+Dengan menggunakan childNodes, firstChild, dan lastChild Kita dapat mengakses elemen dibawah parentNode (child) pada elemen tertentu. 

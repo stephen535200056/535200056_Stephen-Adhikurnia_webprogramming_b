@@ -1,0 +1,17 @@
+Dengan querySelector( ), Kita dapat menemukan elemen - elemen yang akan dipanggil untuk manipulasi DOM, cocok digunakan untuk selector CSS atau selector group CSS. 
+
+Sintaks :  
+
+let element = parentNode.querySelector(selector); 
+
+Dalam sintaksis ini, selektor adalah pemilih CSS atau sekelompok pemilih CSS untuk mencocokkan elemen turunan dari parentNode. 
+
+Jika selector bukan sintaks CSS yang valid, metode ini akan memunculkan pengecualian SyntaxError. 
+
+Jika tidak ada elemen yang cocok dengan pemilih CSS, querySelector () mengembalikan null. 
+
+Selain querySelector (), Kita dapat menggunakan metode querySelectorAll () untuk menemukan semua elemen yang cocok dengan selector CSS atau sekelompok selector CSS: 
+
+let elementList = parentNode.querySelectorAll(selector); 
+
+Metode querySelectorAll () mengembalikan NodeList statis elemen yang cocok dengan selector CSSnya. Jika tidak ada elemen yang ditemukan, ia mengembalikan NodeList kosong. 

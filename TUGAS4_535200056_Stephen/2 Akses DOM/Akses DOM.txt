@@ -1,0 +1,9 @@
+Dengan DOM maka semua node dalam dokumen dapat diakses.  
+
+Untuk dapat mencari dan mengakses elemen pada dokumen HTML untuk dilakukan manipulasi, dapat digunakan beberapa cara : Menggunakan method  
+
+1. getElementById(),  
+2. getElementsByTagName(),  
+3. getElementsByClassName(),  
+4. getEementsByName(),  
+5. querySelector(). 

@@ -1,0 +1,9 @@
+getElementsByName() merupakan metode untuk mendapatkan elemen dengan nama tertentu dalam dokumen. 
+
+Untuk mendapatkan semua elemen dengan nama yang ditentukan, Kita menggunakan metode getElementsByName () dari objek dokumen: 
+
+var elements = document.getElementsByName(name); 
+
+getElementsByName () menerima nama yang merupakan nilai atribut nama elemen dan mengembalikan NodeList elemen secara langsung. 
+
+Koleksi elemen yang dikembalikan secara langsung. Ini berarti bahwa elemen secara otomatis diperbarui ketika elemen dengan nama yang sama ditambahkan dan / atau dihapus dari dokumen. 

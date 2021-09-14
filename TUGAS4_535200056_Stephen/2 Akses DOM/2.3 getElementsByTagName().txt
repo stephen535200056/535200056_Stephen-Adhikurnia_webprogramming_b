@@ -1,0 +1,7 @@
+getElementsByTagName () adalah metode objek dokumen atau elemen DOM tertentu. 
+
+Metode getElementsByTagName () menerima nama tag - tag HTML dan mengembalikan langsung dari elemen dengan nama tag yang cocok sesuai urutan kemunculannya di dokumen. 
+
+Sintaks sebagai berikut :  
+
+var elements = document.getElementsByTagName(tagName); 

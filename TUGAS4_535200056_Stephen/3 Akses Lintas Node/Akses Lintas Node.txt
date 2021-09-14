@@ -1,0 +1,8 @@
+Kita dapat menggunakan properti node berikut untuk menavigasi antar node dengan JavaScript: 
+
+-parentNode 
+-childNodes[nodenumber] 
+    -firstChild 
+    -lastChild 
+-nextSibling 
+-previousSibling 

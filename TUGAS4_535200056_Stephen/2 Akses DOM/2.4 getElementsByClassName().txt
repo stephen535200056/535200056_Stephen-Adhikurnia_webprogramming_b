@@ -1,0 +1,13 @@
+Metode getElementsByClassName () tersedia di objek dokumen dan elemen HTML apa pun.  
+
+Metode getElementsByClassName () menerima satu argumen, yaitu string yang berisi satu atau lebih nama kelas: 
+
+var elements = document.getElementsByClassName(classNames) 
+
+var  elements = parentElement.getElementsByClassName(classNames) 
+
+Dalam sintaks ini, parameter classNames adalah string yang mewakili nama kelas atau daftar nama kelas yang dipisahkan koma untuk dicocokkan. 
+
+Jika Kita memanggil metode getElementsByClassName () pada objek dokumen, metode tersebut mencari elemen dengan nama kelas yang ditentukan di seluruh dokumen. 
+
+Namun, saat Kita memanggil metode getElementsByClassName () pada elemen tertentu, metode ini hanya mengembalikan elemen yang cocok di subtree elemen tersebut. 

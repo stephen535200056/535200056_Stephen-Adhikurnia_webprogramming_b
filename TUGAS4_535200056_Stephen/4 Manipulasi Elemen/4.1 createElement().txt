@@ -1,0 +1,5 @@
+Untuk membuat elemen HTML, Kita dapat menggunakan script method document.createElement( ) 
+
+let element = document.createElement(htmlTag);  
+
+document.createElement( ) menerima nama tag HTML dan mengembalikan Node baru dengan tipe elemen. 

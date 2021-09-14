@@ -1,0 +1,25 @@
+HTML DOM dapat digunakan dengan Javascript untuk membaca dan mengubah dokumen HTML, XHTML dan XML. Dasar skrip yang harus dikuasai adalah HTML/XHTML dan Javascript. 
+
+DOM membuat sebuah dokumen HTML sebagai struktur tree dengan elemen, atribut dan text, sehingga dengan DOM dapat dikatakan :  
+
+Semua yang ada di dalam dokumen HTML adalah sebuah node. 
+
+Setiap tag HTML adalah sebuah elemen node. 
+
+Teks dalam HTML adalah teks node. 
+
+Setiap atribut HTML adalah atribut node. 
+
+Comment adalah comment node. 
+
+Contoh
+
+<html> 
+<head> 
+    <title> My Title</title> 
+</head> 
+<body> 
+    <a href: http://iinilink.com>My llink</a> 
+    <h1>My Header</h1> 
+</body> 
+</html> 

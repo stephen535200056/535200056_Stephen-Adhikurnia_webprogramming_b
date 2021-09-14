@@ -1,0 +1,5 @@
+Setiap node memiliki hubungan dengan node lain di pohon DOM. Hubungannya sama seperti yang dijelaskan dalam silsilah keluarga tradisional. 
+
+Misalnya, <body> adalah simpul anak (child node) dari node <html>, dan <html> adalah simpul induk (parrent node) dari node <body>. 
+
+Simpul <body> adalah sibling dari simpul <head> karena mereka berbagi induk (parrent) langsung yang sama, yaitu elemen <html>. 

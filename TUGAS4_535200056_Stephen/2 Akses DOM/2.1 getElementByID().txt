@@ -1,0 +1,11 @@
+getElementById() memungkinkan Kita untuk memilih elemen berdasarkan Id-nya.  
+
+Sintaks yang digunakan :  
+
+var element = document.getElementById(id); 
+
+Dalam sintaks ini, Id mewakili “id” dari element yang Kita pilih. Id adalah case sensitive, misalnya “pesan” dan “Pesan” adalah Id yang berbeda. 
+
+getElementById() mengembalikan objek elemen yang mendeskripsikan objek elemen DOM dengan id atau null yang ditentukan jika tidak ditemukan elemen yang dimaksud. 
+
+Id pada dokumen HTML bersifat unik. Jika dokumen memiliki lebih dari satu elemen dengan id yang sama, maka metode getElementById() hanya akan mengembalikan yang pertama ditemuinya. 
